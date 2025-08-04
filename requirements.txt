@@ -1,0 +1,7 @@
+gradio==4.*
+python-telegram-bot==20.*
+pandas
+sentence-transformers
+faiss-cpu
+ollama
+python-dotenv
